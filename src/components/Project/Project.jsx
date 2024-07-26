@@ -2,9 +2,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
-// eslint-disable-next-line no-unused-vars
-import { faSomeIcon } from '@fortawesome/free-brands-svg-icons';
-
 const Project = ({ project }) => {
   return (
     <div className="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
